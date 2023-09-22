@@ -102,4 +102,3 @@ Git Process
 - Who merges PRs? Caleb will merge pull requests initially and others will merge for practice
 - How often will you merge? upon task completion and end of work session
 - How will you communicate that it’s time to merge?commjnicate when tasks are completed and coordinate merge based on task completion or end of work session.
-
